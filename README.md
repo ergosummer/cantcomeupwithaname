@@ -31,4 +31,4 @@ README - про выбор темы и общие идеи.
 
 6-HYPOTHESIS - в последнюю очередь. 
 
-7-ML_REGRESSION - следующая задача. 
+7-ML_CLASSIFICATION - этап готов.
