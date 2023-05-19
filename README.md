@@ -16,7 +16,8 @@ https://registry.opendata.aws/us-hiring-rates-pandemic/ \
 
 Над проверкой гипотез думаю, вероятно, будет связано со сравнением времен года. 
 
-Числовая нумерация файлов (кроме README) в гитхабе соответствует этапам в документации проекта (github.com/hse-econ-data-science/andan_2023/blob/main/project_rules.md).
+Числовая нумерация файлов (кроме README) в гитхабе соответствует этапам в документации проекта \
+(github.com/hse-econ-data-science/andan_2023/blob/main/project_rules.md).
 
 ### ГОТОВЫЕ ЭТАПЫ:
 FAIL - без нумерации, задокументировал проблемы с изначально заявленным датасетом.
