@@ -1,6 +1,4 @@
-## Ыыыыть!)
-
-### Проект по курсу "Анализ данных на Python".  
+## Проект по курсу "Анализ данных на Python".  
 
 ### Москва и Санкт-Петербург - две столицы, конкурирующие между собой.
 В том числе - и в вопросе погодных условий. \
@@ -14,7 +12,7 @@
 Числовая нумерация файлов (кроме README) в гитхабе соответствует этапам в [документации проекта](https://github.com/hse-econ-data-science/andan_2023/blob/main/project_rules.md).
 
 ### ГОТОВЫЕ ЭТАПЫ:
-**[FAIL](https://github.com/ergosummer/cantcomeupwithaname/blob/main/FAIL.ipynb)** - без нумерации, задокументировал проблемы с изначально заявленным датасетом.
+**[FAIL](https://github.com/ergosummer/cantcomeupwithaname/blob/main/FAIL.ipynb)** - без нумерации, задокументировал проблемы с [изначально заявленным датасетом](https://registry.opendata.aws/us-hiring-rates-pandemic/).
 
 **README** - про выбор темы и общие идеи.
 
@@ -29,5 +27,3 @@
 **[7-ML_CLASSIFICATION](https://github.com/ergosummer/cantcomeupwithaname/tree/main/7-ML_CLASSIFICATION)** - этап готов.
 
 Файлы, содержащие результат парсинга и обработки датасета, лежат [здесь](https://github.com/ergosummer/cantcomeupwithaname/tree/main/data_after_scrapping). 
-
-P. S. [Изначальный датасет для анализа](https://registry.opendata.aws/us-hiring-rates-pandemic/) не получилось обработать (см. [FAIL](https://github.com/ergosummer/cantcomeupwithaname/blob/main/FAIL.ipynb)). Успешно поменяли.
