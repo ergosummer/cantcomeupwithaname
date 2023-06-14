@@ -1,10 +1,10 @@
-# Ыыыыть!)
+## Ыыыыть!)
 
 ### Проект по курсу "Анализ данных на Python". 
 
 ### Изначальный датасет для анализа:
 https://registry.opendata.aws/us-hiring-rates-pandemic/ \
-В процессе что-то пошло не так (см. FAIL). 
+В процессе что-то пошло не так (см. [FAIL](https://github.com/ergosummer/cantcomeupwithaname/blob/main/FAIL.ipynb)). 
 Датасет придется сменить. 
 
 ### Москва и Санкт-Петербург - две столицы, конкурирующие между собой.
@@ -12,26 +12,25 @@ https://registry.opendata.aws/us-hiring-rates-pandemic/ \
 Вытащим исторические данные о погоде за доступный период с сайта pogoda1.ru: метеостанции Внуково для Москвы и Пулково для СПб.
 В наличии и категориальные, и количественные признаки, а также достаточное количество наблюдений (>2к для каждого города).
 
-Очевидная задача для машинного обучения - бинарная классификация: предсказывать по погоде, где Москва, а где Питер.
+Решаемая задача для машинного обучения - бинарная классификация: предсказывать по погоде, где Москва, а где Питер.
 
-Над проверкой гипотез думаю, вероятно, будет связано со сравнением времен года. 
+Проверка гипотез: сравнение температурного режима времен года (z-test, критерий согласия Пирсона, F-test). 
 
-Числовая нумерация файлов (кроме README) в гитхабе соответствует этапам в документации проекта \
-(https://github.com/hse-econ-data-science/andan_2023/blob/main/project_rules.md).
+Числовая нумерация файлов (кроме README) в гитхабе соответствует этапам в [документации проекта](https://github.com/hse-econ-data-science/andan_2023/blob/main/project_rules.md).
 
 ### ГОТОВЫЕ ЭТАПЫ:
 **[FAIL](https://github.com/ergosummer/cantcomeupwithaname/blob/main/FAIL.ipynb)** - без нумерации, задокументировал проблемы с изначально заявленным датасетом.
 
 **README** - про выбор темы и общие идеи.
 
-**2-PARSER** - сбор данных и парсинг. Этап готов.
+**[2-PARSER](https://github.com/ergosummer/cantcomeupwithaname/tree/main/2-PARSER)** - сбор данных и парсинг. Этап готов.
 
-**3-HANDLING-DATA** - работа с пропусками. Этап готов.\
-~~Написал цикл для заполнения НаНов, но, как выяснилось при визуализации, с ним проблема - иногда ставит очень странные значения; непонятно, почему. Буду признателен фидбеку. В принципе, можно не мудрить и заполнять НаНы средними по всей выборке (тем более, их немного), но я решил заморочиться.~~ Проблема решена.
+**[3-HANDLING-DATA](https://github.com/ergosummer/cantcomeupwithaname/tree/main/3-HANDLING-DATA)** - работа с пропусками. Этап готов.
 
-**4-5-NEW_PROPERTIES_AND_VISUALS** - создание новых признаков и визуализация. Этап готов. \
-~~не закончил с визуализацией. С очень странной ошибкой отказывается работать seaborn, тут тоже буду признателен фидбеку, как это починить.~~ Проблема решена.
+**[4-5-NEW_PROPERTIES_AND_VISUALS](https://github.com/ergosummer/cantcomeupwithaname/tree/main/4_5-NEW_PROPERTIES_AND_VISUALS)** - создание новых признаков и визуализация. Этап готов. \
 
-*6-HYPOTHESIS - в процессе.*
+**[6-HYPOTHESIS](https://github.com/ergosummer/cantcomeupwithaname/tree/main/6_HYPOTHESIS)** - проверка гипотез. Этап готов. \ 
 
-**7-ML_CLASSIFICATION - этап готов.**
+**[7-ML_CLASSIFICATION](https://github.com/ergosummer/cantcomeupwithaname/tree/main/7-ML_CLASSIFICATION) - этап готов.**
+
+Файлы, содержащие результат парсинга и обработки датасета, лежат [здесь](https://github.com/ergosummer/cantcomeupwithaname/tree/main/data_after_scrapping). 
