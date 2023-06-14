@@ -20,7 +20,7 @@ https://registry.opendata.aws/us-hiring-rates-pandemic/ \
 (https://github.com/hse-econ-data-science/andan_2023/blob/main/project_rules.md).
 
 ### ГОТОВЫЕ ЭТАПЫ:
-**FAIL** - без нумерации, задокументировал проблемы с изначально заявленным датасетом.
+**[FAIL](https://github.com/ergosummer/cantcomeupwithaname/blob/main/FAIL.ipynb)** - без нумерации, задокументировал проблемы с изначально заявленным датасетом.
 
 **README** - про выбор темы и общие идеи.
 
