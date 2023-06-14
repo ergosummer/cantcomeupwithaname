@@ -1,11 +1,6 @@
 ## Ыыыыть!)
 
-### Проект по курсу "Анализ данных на Python". 
-
-### Изначальный датасет для анализа:
-https://registry.opendata.aws/us-hiring-rates-pandemic/ \
-В процессе что-то пошло не так (см. [FAIL](https://github.com/ergosummer/cantcomeupwithaname/blob/main/FAIL.ipynb)). 
-Датасет придется сменить. 
+### Проект по курсу "Анализ данных на Python".  
 
 ### Москва и Санкт-Петербург - две столицы, конкурирующие между собой.
 В том числе - и в вопросе погодных условий. \
@@ -34,3 +29,5 @@ https://registry.opendata.aws/us-hiring-rates-pandemic/ \
 **[7-ML_CLASSIFICATION](https://github.com/ergosummer/cantcomeupwithaname/tree/main/7-ML_CLASSIFICATION)** - этап готов.
 
 Файлы, содержащие результат парсинга и обработки датасета, лежат [здесь](https://github.com/ergosummer/cantcomeupwithaname/tree/main/data_after_scrapping). 
+
+P. S. [Изначальный датасет для анализа](https://registry.opendata.aws/us-hiring-rates-pandemic/) не получилось обработать (см. [FAIL](https://github.com/ergosummer/cantcomeupwithaname/blob/main/FAIL.ipynb)). Успешно поменяли.
