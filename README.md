@@ -27,10 +27,10 @@ https://registry.opendata.aws/us-hiring-rates-pandemic/ \
 
 **[3-HANDLING-DATA](https://github.com/ergosummer/cantcomeupwithaname/tree/main/3-HANDLING-DATA)** - работа с пропусками. Этап готов.
 
-**[4-5-NEW_PROPERTIES_AND_VISUALS](https://github.com/ergosummer/cantcomeupwithaname/tree/main/4_5-NEW_PROPERTIES_AND_VISUALS)** - создание новых признаков и визуализация. Этап готов. \
+**[4-5-NEW_PROPERTIES_AND_VISUALS](https://github.com/ergosummer/cantcomeupwithaname/tree/main/4_5-NEW_PROPERTIES_AND_VISUALS)** - создание новых признаков и визуализация. Этап готов. 
 
-**[6-HYPOTHESIS](https://github.com/ergosummer/cantcomeupwithaname/tree/main/6_HYPOTHESIS)** - проверка гипотез. Этап готов. \ 
+**[6-HYPOTHESIS](https://github.com/ergosummer/cantcomeupwithaname/tree/main/6_HYPOTHESIS)** - проверка гипотез. Этап готов. 
 
-**[7-ML_CLASSIFICATION](https://github.com/ergosummer/cantcomeupwithaname/tree/main/7-ML_CLASSIFICATION) - этап готов.**
+**[7-ML_CLASSIFICATION](https://github.com/ergosummer/cantcomeupwithaname/tree/main/7-ML_CLASSIFICATION)** - этап готов.
 
 Файлы, содержащие результат парсинга и обработки датасета, лежат [здесь](https://github.com/ergosummer/cantcomeupwithaname/tree/main/data_after_scrapping). 
